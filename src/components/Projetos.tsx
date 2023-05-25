@@ -18,9 +18,9 @@ export default function Projetos (){
             </a>
           </li>
           <li className='border bg-white max-w-[400px] border-black p-2 rounded-lg flex justify-center relative after:rounded-lg after:top-2 after:left-2 after:right-[-8px] after:bottom-[-8px] after:-z-10 after:absolute after:bg-black hover:after:top-0 hover:after:left-0 hover:after:bottom-0 hover:after:right-0 hover:translate-x-1 hover:translate-y-1 hover:after:bg-transparent'>
-            <a href="">
+            <a href="https://pokedex-phi-umber.vercel.app/" target='_blank'>
               <div className='flex flex-col gap-3 p-4 text-center z-10'>
-                <h3 className='text-2xl'>Calculadora</h3>
+                <h3 className='text-2xl'>Pokedex</h3>
                 <img className='w-72 border rounded-lg' src={pokedex} alt="" />
                 <p className='w-72 px-5'>Esse foi desenvolvido para estudar consumo de API em JavaScript.</p>
               </div>
