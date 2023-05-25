@@ -2,7 +2,7 @@ import profile from './assets/profile.jpeg'
 import twitter from './assets/twitter.svg'
 import linkedin from './assets/linkedin.svg'
 import github from './assets/github.svg'
-import logotipo from './assets/logotipo.svg'
+
 
 
 
