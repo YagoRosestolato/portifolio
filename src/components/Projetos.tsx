@@ -22,7 +22,7 @@ export default function Projetos (){
               <div className='flex flex-col gap-3 p-4 text-center z-10'>
                 <h3 className='text-2xl'>Pokedex</h3>
                 <img className='w-72 border rounded-lg' src={pokedex} alt="" />
-                <p className='w-72 px-5'>Esse foi desenvolvido para estudar consumo de API em JavaScript.</p>
+                <p className='w-72 px-5'>Testar os conhecimento em Consumo de API'S em JavaScript</p>
               </div>
             </a>
           </li>
@@ -30,7 +30,7 @@ export default function Projetos (){
             <a href="https://yagorosestolato.github.io/devlink/" target="_blank">
               <div className='flex flex-col gap-3 p-4 text-center z-10'>
                 <h3 className='text-2xl'>DevLink</h3>
-                <img className='w-72 border rounded-lg' src={devlink}  />
+                <img className='w-72 border rounded-lg' src={devlink}/>
                 <p className='w-72 px-5'></p>
               </div>
             </a>
